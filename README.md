@@ -1,4 +1,4 @@
 # homebrew-repo
-brew reposiroty
+brew repository
 
 Just type `$ brew tap windymelt/repo`
